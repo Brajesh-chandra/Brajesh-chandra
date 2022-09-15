@@ -18,7 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codesandbox.com/brajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brajesh" height="30" width="40" /></a>
+<a href="https://codesandbox.com/brajesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/Brajesh-chandra/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brajesh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brajesh-t-b316b024b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Brajesh-chandra/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="brajesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
